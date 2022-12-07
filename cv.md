@@ -6,7 +6,7 @@
 - ***GitHub:*** **[Gandrysek](https://github.com/Gandrysek)**
 - ***Telegram:*** **[Max](https://t.me/raoulfuckingduke)**
 - ***Linkedin:*** **[Maxim Huzino](https://www.linkedin.com/in/maksim-huzino-a2963a218)**
-- ***Discord: *** **virginnotbychoice(@Gandrysek)**
+- ***Discord:*** **virginnotbychoice(@Gandrysek)**
 
 # About me:
 Hi! I'm 19 y.o. student from Gdansk.  I want to get knowledge and skills that will be enough for employment in a company.
