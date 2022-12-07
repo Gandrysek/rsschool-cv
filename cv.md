@@ -6,9 +6,15 @@
 - ***GitHub:*** **[Gandrysek](https://github.com/Gandrysek)**
 - ***Telegram:*** **[Max](https://t.me/raoulfuckingduke)**
 - ***Linkedin:*** **[Maxim Huzino](https://www.linkedin.com/in/maksim-huzino-a2963a218)**
+- ***Discord: *** **virginnotbychoice(@Gandrysek)**
 
 # About me:
-Hi! I'm 19 y.o. student from Gdansk. I want to get knowledge and skills that will be enough for employment in a company.
+Hi! I'm 19 y.o. student from Gdansk.  I want to get knowledge and skills that will be enough for employment in a company.
+- My strenghts:
+   - Teamwork
+   - Problem-solving
+   - Creativity 
+
 
 # Skills: 
 - HTML
@@ -28,3 +34,25 @@ Hi! I'm 19 y.o. student from Gdansk. I want to get knowledge and skills that wil
 # Education
 - Gdansk Univercity of Technology : Computer Science (active)
 - RS School JS/FE Pre-School 2022Q4 (active)
+
+# Code example 
+
+```
+function sortItems(array) {
+	for (let i = 0; i < array.length; i++) {
+		for (let j = 0; j < array.length; j++) {
+			if (array[j] > array[j + 1]) {
+				let temp = array[j];
+				array[j] = array[j + 1];
+				array[j + 1] = temp;
+			}
+		}
+	}
+	return array;
+}
+
+```
+
+# Work experience: 
+
+No work experience ;( 
